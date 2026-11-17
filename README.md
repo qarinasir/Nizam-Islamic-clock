@@ -1,2 +1,2 @@
 # Nizam-Islamic-clock
-Nizam Islamic app clock
+Nizam Islamic app-clock
